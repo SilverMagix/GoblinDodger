@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-bg.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-foreground-trees.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-montain-far.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-mountains.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-trees.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/layers/parallax-mountain-bg2.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Tile.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/HUD/Score.spritefont</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/playerleft.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/playerright.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Goblin/goblinLeft.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Goblin/goblinRight.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Fly/flyLeft.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Fly/flyRight.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Bird/birdRight.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/Bird/birdLeft.png</File>
+    <File>D:/Users/ugoal/Desktop/GoblinDodger/Content/HUD/ScoreBoard.png</File>
+  </SourceFiles>
+</SourceFileCollection>

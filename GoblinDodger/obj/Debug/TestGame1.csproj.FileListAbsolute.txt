@@ -1,0 +1,147 @@
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\player.xnb
+D:\Users\ugoal\Documents\École\LaSalle\Semestre 2\Prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\player.xnb
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+D:\Users\Alonso\Documents\LaSalle\Semestre 2\prog\Tests\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\player.xnb
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+G:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+G:\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+G:\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+G:\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+G:\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+G:\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\player.xnb
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+E:\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+E:\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+E:\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+E:\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+E:\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\player.xnb
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+E:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+E:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+E:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+E:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+E:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Tile.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.exe
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\TestGame1.pdb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+G:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csprojResolveAssemblyReference.cache
+G:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CoreCompileInputs.cache
+G:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.csproj.CopyComplete
+G:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.exe
+G:\MyStuff\TestGame1\TestGame1\obj\Debug\TestGame1.pdb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-forest-back-trees.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-forest-front-trees.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-forest-lights.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-forest-middle-trees.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-bg.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-foreground-trees.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-montain-far.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-mountains.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-trees.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\layers\parallax-mountain-bg2.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\HUD\Score.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\playerleft.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\playerright.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Goblin\goblinleft.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Goblin\goblinleftfly.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Goblin\goblinright.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Goblin\goblinrightfly.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Fly\flyLeft.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Fly\flyRight.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Bird\birdRight.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\Bird\birdLeft.xnb
+G:\MyStuff\TestGame1\TestGame1\bin\DesktopGL\AnyCPU\Debug\Content\HUD\ScoreBoard.xnb

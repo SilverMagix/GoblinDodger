@@ -1,0 +1,4 @@
+You got hit by:
+Goblins: 0
+Bird: 0
+Flies: 0
