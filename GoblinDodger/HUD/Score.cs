@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -56,7 +56,7 @@ namespace TestGame1.HUD
             else { lives = "0"; }
             ScoreNumber = "Score: " + (int)time;
             LivesNumber = "Health: " + lives + "%";
-            if (time > 200) {
+            if (time > 120) {
                 Player.isWon = true;
                 Player.isActive = false;
             }
