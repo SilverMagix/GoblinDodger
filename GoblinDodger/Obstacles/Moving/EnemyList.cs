@@ -30,9 +30,8 @@ namespace TestGame1.Obstacles.Moving
         {
 
             filename = Path.GetFullPath(filename);
-            fileAppend = new FileStream(filename, FileMode.Create);
-            
             Directory.CreateDirectory(Path.GetDirectoryName(filename));
+            fileAppend = new FileStream(filename, FileMode.Create);
             doc = new StreamWriter(fileAppend);
             //docRead = new StreamReader(filename);
             stats[0] = "You got hit by:";

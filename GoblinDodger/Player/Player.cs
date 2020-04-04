@@ -71,13 +71,13 @@ namespace TestGame1
             PlayerRelativePosition(state, gametime, start);
             PlayerRelativePosition(state, gametime, start, end);
             if (end == 1) {
-                if (state.IsKeyDown(Keys.Right) && canMoveRight)
+                if ((state.IsKeyDown(Keys.Right) || state.IsKeyDown(Keys.D)) && canMoveRight)
                 {
                     PlayerPosition.X += playerSpeed * gametime.ElapsedGameTime.Milliseconds;
                     PlayerTexture = PlayerTextureRight;
                 }
 
-                if (state.IsKeyDown(Keys.Left) && canMoveLeft)
+                if ((state.IsKeyDown(Keys.Left) || state.IsKeyDown(Keys.A)) && canMoveLeft)
                 {
                     PlayerPosition.X -= playerSpeed * gametime.ElapsedGameTime.Milliseconds;
                     PlayerTexture = PlayerTextureLeft;
@@ -137,13 +137,13 @@ namespace TestGame1
             if (start)
             {
 
-                if (state.IsKeyDown(Keys.Right) && canMoveRight)
+                if ((state.IsKeyDown(Keys.Right) || state.IsKeyDown(Keys.D)) && canMoveRight)
                 {
                     PlayerPosition.X += playerSpeed * gametime.ElapsedGameTime.Milliseconds;
                     PlayerTexture = PlayerTextureRight;
                 }
 
-                if (state.IsKeyDown(Keys.Left) && canMoveLeft)
+                if ((state.IsKeyDown(Keys.Left) || state.IsKeyDown(Keys.A)) && canMoveLeft)
                 {
                     PlayerPosition.X -= playerSpeed * gametime.ElapsedGameTime.Milliseconds;
                     PlayerTexture = PlayerTextureLeft;
@@ -163,14 +163,14 @@ namespace TestGame1
 
 
 
-                if (state.IsKeyDown(Keys.Right) && canMoveRight)
+                if ((state.IsKeyDown(Keys.Right) || state.IsKeyDown(Keys.D)) && canMoveRight)
                 {
                     limitRight = true;
                     PlayerTexture = PlayerTextureRight;
                 }
 
 
-                if (state.IsKeyDown(Keys.Left) && canMoveLeft)
+                if ((state.IsKeyDown(Keys.Left) || state.IsKeyDown(Keys.A)) && canMoveLeft)
                 {
                     limitLeft = true;
                     PlayerTexture = PlayerTextureLeft;
@@ -186,8 +186,7 @@ namespace TestGame1
         {
 
             if ((state.IsKeyDown(Keys.Space) & !previousState.IsKeyDown(
-                Keys.Space) || state.IsKeyDown(Keys.Up) & !previousState.IsKeyDown(
-                Keys.Up)) & countJump < 2)
+               Keys.Space)) & countJump < 2)
             {
                 countJump++;
                 isJumping = true;
